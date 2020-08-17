@@ -1,5 +1,5 @@
 # Square-packing
- Packing squares inside a square for Unity, in C#.
+ Packing squares inside a square for Unity in C#.
 
 ![Preview](preview.jpg)
 
