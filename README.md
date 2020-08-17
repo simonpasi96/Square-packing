@@ -1,6 +1,6 @@
 # Square-packing
  Packing squares inside a square for Unity in C#.<br>
- See explanation on this Medium article https://medium.com/@vitefait/packing-squares-in-unity-52a1afbdf9c
+ Explanation: https://medium.com/@vitefait/packing-squares-in-unity-52a1afbdf9c
 
 ![Preview](preview.jpg)
 
