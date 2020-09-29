@@ -8,3 +8,8 @@ Based on
 https://github.com/TeamHypersomnia/rectpack2D#algorithm
 and
 https://blackpawn.com/texts/lightmaps/default.html
+
+License
+-------
+
+[Public domain](http://unlicense.org/)
